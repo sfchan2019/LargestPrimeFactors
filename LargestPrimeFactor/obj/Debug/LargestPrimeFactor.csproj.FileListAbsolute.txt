@@ -1,0 +1,6 @@
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week8\Day5\LargestPrimeFactor.Test\LargestPrimeFactor\bin\Debug\LargestPrimeFactor.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week8\Day5\LargestPrimeFactor.Test\LargestPrimeFactor\bin\Debug\LargestPrimeFactor.pdb
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week8\Day5\LargestPrimeFactor.Test\LargestPrimeFactor\obj\Debug\LargestPrimeFactor.csprojAssemblyReference.cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week8\Day5\LargestPrimeFactor.Test\LargestPrimeFactor\obj\Debug\LargestPrimeFactor.csproj.CoreCompileInputs.cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week8\Day5\LargestPrimeFactor.Test\LargestPrimeFactor\obj\Debug\LargestPrimeFactor.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week8\Day5\LargestPrimeFactor.Test\LargestPrimeFactor\obj\Debug\LargestPrimeFactor.pdb
