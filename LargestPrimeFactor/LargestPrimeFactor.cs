@@ -119,7 +119,6 @@ namespace LargestPrimeFactor
             {
                 return memo;
             }
-            //Fix this
             if (IsPrime(pNum) && number % pNum == 0)
             {
                 memo.Add(pNum);
@@ -134,29 +133,29 @@ namespace LargestPrimeFactor
             }
         }
 
-        public bool DividableByPrimeFactor(long number, HashSet<int> memo, int current)
-        {
-            int i = current;
-            while (i < number)
-            {
-                if (IsPrime(i) && !memo.Contains(i))
-                {
-                    if (number % i == 0)
-                    {
-                        memo.Add(i);
-                        return true;
-                    }
-                }
-                if (i == 2)
-                {
-                    i++;
-                }
-                else
-                {
-                    i += 2;
-                }
-            }
-            return false;
-        }
+        //    public bool DividableByPrimeFactor(long number, HashSet<int> memo, int current)
+        //    {
+        //        int i = current;
+        //        while (i < number)
+        //        {
+        //            if (IsPrime(i) && !memo.Contains(i))
+        //            {
+        //                if (number % i == 0)
+        //                {
+        //                    memo.Add(i);
+        //                    return true;
+        //                }
+        //            }
+        //            if (i == 2)
+        //            {
+        //                i++;
+        //            }
+        //            else
+        //            {
+        //                i += 2;
+        //            }
+        //        }
+        //        return false;
+        //    }
     }
 }
