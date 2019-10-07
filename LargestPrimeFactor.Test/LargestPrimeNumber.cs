@@ -31,6 +31,7 @@ namespace LargestPrimeFactor.Test
             Assert.AreEqual(true, lpf.IsPrime(157));
             Assert.AreEqual(true, lpf.IsPrime(2));
             Assert.AreEqual(false, lpf.IsPrime(155));
+            Assert.AreEqual(true, lpf.IsPrime(199));
         }
 
         [Test]
@@ -49,7 +50,7 @@ namespace LargestPrimeFactor.Test
         [Test]
         public void DividableByUncheckedPrimeFactorTest()
         {
-            Assert.AreEqual(true, lpf.DividableByPrimeFactor(13195, new HashSet<int>() { 5, 7 }));
+            //Assert.AreEqual(true, lpf.DividableByPrimeFactor(13195, new HashSet<int>() { 5, 7 }));
         }
     }
 }
